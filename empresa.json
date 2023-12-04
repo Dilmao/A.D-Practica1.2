@@ -1,0 +1,110 @@
+{
+  "listaDeps": [
+    {
+      "id": 1,
+      "nombre": "Ventas",
+      "localidad": "Jaca",
+      "empleados": [
+        {
+          "nombre": "diego",
+          "sueldo": 1000.0,
+          "annoNacimiento": 2020,
+          "antiguedad": "Oct 10, 2020, 12:00:00 AM"
+        },
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 25000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 1
+        },
+        {
+          "nombre": "Sara Gracia",
+          "sueldo": 28000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 2
+        },
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 35000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Producción",
+      "localidad": "Jaca",
+      "empleados": [
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 25000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 1
+        },
+        {
+          "nombre": "Sara Gracia",
+          "sueldo": 28000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 2
+        },
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 35000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Informática",
+      "localidad": "Sabiñánigo",
+      "empleados": [
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 25000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 1
+        },
+        {
+          "nombre": "Sara Gracia",
+          "sueldo": 28000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 2
+        },
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 35000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Compras",
+      "localidad": "Sabiñánigo",
+      "empleados": [
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 25000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 1
+        },
+        {
+          "nombre": "Sara Gracia",
+          "sueldo": 28000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 2
+        },
+        {
+          "nombre": "Juan Álvarez",
+          "sueldo": 35000.0,
+          "antiguedad": "Oct 25, 2023, 10:19:39 AM",
+          "idDep": 3
+        }
+      ]
+    }
+  ]
+}

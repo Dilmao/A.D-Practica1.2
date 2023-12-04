@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7923d4bc-1c18-4933-93d8-7d0b4aa825b3" name="Changes" comment="cambios y tal">
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/AccesoXML23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/classes/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/CocheHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/CocheHandlerClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/EscribirXMLconDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/EscribirXMLconDOMClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/LeerXMLconDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/LeerXMLconDOMClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/code/LeerXMLconSAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/libs/CheckFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/libs/Leer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/resources/concesionario.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/resources/concesionario2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLDOM23-master/src/resources/concesionario3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccesoXMLconJAXBClase" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/LacasaMontesDiegoPractica1.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/code/backUpCompleto$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/code/backUpCompleto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/code/backUpIncremental$copiaIncremental.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/code/backUpIncremental.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/completo/friki.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/completo/icono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/completo/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/incremental2023.10.27_09-02/texto2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/incremental2023.10.27_09-08/texto2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/incremental2023.10.27_09-16/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/incremental2023.10.27_09-17/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/incremental2023.10.27_09-17/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/incremental/registro.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/original/friki.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/original/icono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/original/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/out/production/LacasaMontesDiegoPractica1.1/resources/original/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/code/backUpCompleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/code/backUpIncremental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/completo/friki.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/completo/icono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/completo/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/incremental2023.10.27_09-02/texto2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/incremental2023.10.27_09-08/texto2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/incremental2023.10.27_09-16/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/incremental2023.10.27_09-17/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/incremental2023.10.27_09-17/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/incremental/registro.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/original/friki.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/original/icono.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/original/texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LacasaMontesDiegoPractica1.1/src/resources/original/texto3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/calculadoraBasica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculadoraBasica/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/evaluacionInicial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/src/Herencia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/src/Herencia/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/src/Herencia/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evaluacionInicial/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ficheros23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mySQL1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/practicasXML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/clases/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/code/EscribirXMLconDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/code/LeerXMLconDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/code/LeerXMLconDOMClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/resources/concesionario.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practicasXML/src/resources/concesionario2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.4/P.S.P-Tarea1.4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.1" beforeDir="false" afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.2" beforeDir="false" afterPath="$PROJECT_DIR$/../../P.S.P/P.S.P-Tarea1.2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WZ8B1wJGGgIKVg2MRtTrtTfM8Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowCap BigData.ShowToolbar": "false",
+    "ToolWindowCap Console.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/diego/IdeaProjects/A.D/LacasaMontesDiegoPractica1.1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Alumno/IdeaProjects/A.D/LacasaMontesDiegoPractica1.2/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\diego\IdeaProjects\A.D\LacasaMontesDiegoPractica1.2\src\main\resources" />
+      <recent name="C:\Users\diego\IdeaProjects\A.D\LacasaMontesDiegoPractica1.2\src\main\java\code" />
+      <recent name="C:\Users\Alumno\IdeaProjects\A.D\LacasaMontesDiegoPractica1.2\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7923d4bc-1c18-4933-93d8-7d0b4aa825b3" name="Changes" comment="" />
+      <created>1696928607266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696928607266</updated>
+      <workItem from="1698137407578" duration="219000" />
+      <workItem from="1698137798722" duration="80000" />
+      <workItem from="1699351010703" duration="780000" />
+      <workItem from="1699351885291" duration="582000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1697811941941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697811941941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1697811947834</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697811947834</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ejercicio1 completo&#10;ejercicios 2 y 3 incompletos&#10;ejercicios 4 y 5 sin empezar">
+      <option name="closed" value="true" />
+      <created>1697880076649</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697880076649</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ejercicio 2 completo">
+      <option name="closed" value="true" />
+      <created>1698074643464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074643464</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cambios menu">
+      <option name="closed" value="true" />
+      <created>1698074656285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074656285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creacion clase departamentos">
+      <option name="closed" value="true" />
+      <created>1698074689343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074689343</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nada">
+      <option name="closed" value="true" />
+      <created>1698074725341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698074725341</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cambios y tal">
+      <option name="closed" value="true" />
+      <created>1698158838135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698158838135</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit" />
+    <MESSAGE value="ejercicio1 completo&#10;ejercicios 2 y 3 incompletos&#10;ejercicios 4 y 5 sin empezar" />
+    <MESSAGE value="ejercicio 2 completo" />
+    <MESSAGE value="cambios menu" />
+    <MESSAGE value="creacion clase departamentos" />
+    <MESSAGE value="nada" />
+    <MESSAGE value="cambios y tal" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambios y tal" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
